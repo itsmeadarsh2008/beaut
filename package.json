@@ -1,0 +1,38 @@
+{
+  "name": "beaut",
+  "version": "1.0.5",
+  "description": "An easy way to beautify terminals!🐲",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmeadarsh2008/beaut.git"
+  },
+  "homepage": "https://itsmeadarsh2008.github.io/beaut-land/",
+  "bugs": {
+    "url": "https://github.com/itsmeadarsh2008/beaut/issues",
+    "email": "adarshgourabmahalik@outlook.com"
+  },
+  "keywords": [
+    "colorize",
+    "bold",
+    "italic",
+    "underline",
+    "backround",
+    "foreground",
+    "color",
+    "terminal",
+    "cli",
+    "beautify",
+    "icons",
+    "small",
+    "commonjs"
+  ],
+  "author": "Adarsh Gourab Mahalik",
+  "license": "MIT",
+  "devDependencies": {
+    "color-convert": "^2.0.1"
+  }
+}
