@@ -1,3 +1,4 @@
+Deprecated!
 # Beaut
 ![Beaut Banner](https://i.ibb.co/Hq1FL0x/beaut.png)
 ![GitHub License](https://img.shields.io/github/license/GithubyAdarsh/beaut?color=blueviolet&logo=github&style=for-the-badge)
